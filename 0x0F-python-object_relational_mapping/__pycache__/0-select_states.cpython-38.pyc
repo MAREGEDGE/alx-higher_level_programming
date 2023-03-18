@@ -1,0 +1,9 @@
+U^M^M
+^@^@^@^@^RGÀaÆ^A^@^@ã^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^E^@^@^@@^@^@^@sf^@^@^@d^@Z^@d^Ad^Bl^AZ^Ad^Ad^Bl^BZ^Be^Cd^Ck^Brbe^Bj^De^Aj^Ed^D^Y^@e^Aj^Ed^E^Y^@e^Aj^Ed^F^Y^@d^G<8d>^CZ^Fe^F ^G¡^@Z^He^H   d^H¡^A^A^@d     d
+<84>^@e^H 
+¡^@D^@<83>^A^A^@d^BS^@)^Kzº
+Lists all states from the database hbtn_0e_0_usa.
+Usage: ./0-select_states.py <mysql username>                             <mysql password>                              <database name>
+é^@^@^@^@NÚ^H__main__é^A^@^@^@é^B^@^@^@é^C^@^@^@)^CÚ^DuserZ^FpasswdÚ^Bdbz^VSELECT * FROM `states`c^A^@^@^@^@^@^@^@^@^@^@^@^B^@^@^@^D^@^@^@C^@^@^@s^T^@^@^@g^@|^@]^L}^At^@|^A<83>^A<91>^Bq^DS^@©^@)^AÚ^Eprint)^BÚ^B.0Ú^Estater^H^@^@^@r^H^@^@^@ú<84>/home/beta/Documents/FIRDAUS/ALX/Gitprojects/1/alx-higher_level_programming/0x0F-python-object_relational_mapping/0-select_states.pyÚ
+<listcomp>^O^@^@^@s^D^@^@^@^F^@^B^@r^M^@^@^@)^KÚ^G__doc__Ú^CsysZ^GMySQLdbÚ^H__name__Z^GconnectÚ^Dargvr^G^@^@^@Z^FcursorÚ^AcZ^GexecuteZ^Hfetchallr^H^@^@^@r^H^@^@^@r^H^@^@^@r^L^@^@^@Ú^H<module>^B^@^@^@s^N^@^@^@^D^F^H^A^H^B^H^A"^A^H^A
+^A
